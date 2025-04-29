@@ -26,6 +26,7 @@
 			<img src="webimages/homepage.png" width="100%" height="370px" align="left" />
 			<div class="content">
 				<h1>Welcome to Smart Card System</h1>
+					<h2> I am developer 2</h2>
 				<p>Here is the smart solution to maintain the Student administration and suppoort. This smart cards can help student for <strong>Library, Canteen and Academics</strong></p>
 			</div>
 	    </div>
